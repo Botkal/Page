@@ -1,6 +1,8 @@
 {
   "main": {
-    "title": "László Botka",
+    "firstName": "László",
+    "middleName": "",
+    "lastName": "Botka",
     "message": "I am committed to quality and efficient solutions.",
     "moreButton": "More about me",
     "moreAria": "Learn more about me"

@@ -1,6 +1,8 @@
 {
   "main": {
-    "title": "Botka László",
+    "firstName": "László",
+    "middleName": "",
+    "lastName": "Botka",
     "message": "Elkötelezett vagyok a minőségi és hatékony megoldások iránt.",
     "moreButton": "Többet rólam",
     "moreAria": "Tudj meg többet rólam"
