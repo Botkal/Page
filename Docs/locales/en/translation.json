@@ -1,0 +1,63 @@
+{
+  "main": {
+    "firstName": "László",
+    "middleName": "",
+    "lastName": "Botka",
+    "message": "I am committed to quality and efficient solutions.",
+    "moreButton": "More about me",
+    "moreAria": "Learn more about me"
+  },
+  "navigation": {
+    "projects": "Projects",
+    "resume": "Resume",
+    "about": "About",
+    "skills": "Skills"
+  },
+  "about": {
+    "heading": "About Me",
+    "description": "I have a degree in business IT, Java and software development. I have several years of experience in data management, systems administration and process development. My goal is to write clean, efficient code and create intuitive user experiences. I like challenges and I am constantly looking for new technologies and methods to improve.",
+    "resumeHu": "Resume (HU)",
+    "resumeEn": "Resume (EN)"
+  },
+  "projects": {
+    "heading": "Projects"
+  },
+  "Skill": {
+    "skills_heading": "Skills",
+    "hard_skills_heading": "Hard Skills",
+    "soft_skills_heading": "Soft Skills",
+    "skill_python": "Python",
+    "skill_sql": "SQL",
+    "skill_data_structures": "Data Structures",
+    "skill_c_cpp": "C/C++",
+    "skill_javascript": "JavaScript",
+    "skill_angular": "Angular",
+    "skill_html_css": "HTML/CSS",
+    "skill_java": "Java",
+    "skill_goal_oriented": "Goal-Oriented",
+    "skill_collaboration": "Collaboration",
+    "skill_positivity": "Positivity",
+    "skill_adaptability": "Adaptability",
+    "skill_problem_solving": "Problem Solving",
+    "skill_empathy": "Empathy",
+    "skill_organization": "Organization",
+    "skill_creativity": "Creativity"
+  },
+  "Contact": {
+    "heading": "Get in touch",
+    "message": "If you have any questions, feel free to reach out"
+  },
+  "ProjectCard": {
+    "clone": "Clone Project",
+    "repo": "Repo",
+    "languages": "Languages",
+    "no_code": "code yet to be deployed.",
+    "stars": "Stars",
+    "updated": {
+      "just_now": "just now",
+      "hour": "{{count}} hour ago",
+      "hours": "{{count}} hours ago",
+      "on_date": "on {{date}}"
+    }
+  }
+}
